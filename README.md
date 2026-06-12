@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there! <img src="https://cdn3.emoji.gg/emojis/44449-miku-spin.gif" width="30" height="30" alt="Miku Spin" />
 
-<!--
-**azideu/azideu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer, full-stack developer, and computer science student. I love building complete applications, writing code everywhere from user-facing views to backend databases.
 
-Here are some ideas to get you started:
+### Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** PHP, Java, JavaScript, SQL, C# (.NET), C++, Python
+* **Web:** React, Next.js, Node.js, Express, Tailwind CSS
+* **Databases:** MySQL, PostgreSQL
+* **Tools:** macOS, Git, DigitalOcean
+
+### Outside of Coding
+
+When I'm not in front of a terminal, I'm usually:
+
+* Catching up on Formula 1 and football (Visca Barça and Max FTW!).
+* Playing video games and rhythm games (Chunithm/Maimai).
+* Doing photography.
+* Producing music and playing the guitar.
+* Watching Anime and learning Japanese.
