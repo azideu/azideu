@@ -16,5 +16,5 @@ When I'm not in front of a computer, I'm usually:
 * Watching anime and learning Japanese.
 * Playing video games and rhythm games (Chunithm/Maimai).
 * Catching up on Formula 1 and football (Visca Barça and Max FTW!).
-* Producing music and playing the guitar.
+* Producing music, playing the guitar and singing.
 * Doing photography.
