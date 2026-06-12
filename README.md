@@ -1,6 +1,6 @@
 # Hey there! <img src="https://cdn3.emoji.gg/emojis/44449-miku-spin.gif" width="30" height="30" alt="Miku Spin" />
 
-Software engineer, full-stack developer, and computer science student. I love building complete applications, writing code everywhere from user-facing views to backend databases.
+Software engineer, full-stack developer, and computer science student. I write code across the entire application stack, from building UI down to setting up databases.
 
 ### Tech Stack & Tools
 
@@ -11,10 +11,10 @@ Software engineer, full-stack developer, and computer science student. I love bu
 
 ### Outside of Coding
 
-When I'm not in front of a terminal, I'm usually:
+When I'm not in front of a computer, I'm usually:
 
-* Catching up on Formula 1 and football (Visca Barça and Max FTW!).
+* Watching anime and learning Japanese.
 * Playing video games and rhythm games (Chunithm/Maimai).
-* Doing photography.
+* Catching up on Formula 1 and football (Visca Barça and Max FTW!).
 * Producing music and playing the guitar.
-* Watching Anime and learning Japanese.
+* Doing photography.
